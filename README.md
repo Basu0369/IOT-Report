@@ -5,4 +5,4 @@
 - **Member 4 : Sajib Kumar Barai (200122099)**
 - **Member 5 : Maruf Ahmed (200122133)** 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Thank-new-yellow-transparent.svg/600px-Thank-new-yellow-transparent.svg.png)
+![](https://www.kindpng.com/picc/m/39-399298_thank-you-png-free-images-transparent-png.png)
