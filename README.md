@@ -1,5 +1,5 @@
 # Name of the project : SMART TRAFFIC MANAGEMENT SYSTEM(IOT)
-# - Member 1 : Basu Deb Chandra Das (200122100)
+#### - Member 1 : Basu Deb Chandra Das (200122100)
 - ####Member 2 : Aiman Abdullah (200122138)
 - ####Member 3 : Sadia Afrin (200122156)
 - ####Member 4 : Sajib Kumar Barai (200122099)
